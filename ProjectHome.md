@@ -1,0 +1,3 @@
+Route Tracker is an GPS route tracking apps for Android. It can load your previously save GPX routes and save your route in different formats - GPX/KML/Google Map embedded HTML. Your recording tracks and position will be shown in real time on your device as well as the elapsed time/distance/pace and caloires burnt.
+Your activity can be recorded easily by auto-lap/manual-lap and the position would be geo-coded and saved.
+You can also share your activities by just serveral clicks.
